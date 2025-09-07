@@ -15,7 +15,7 @@ A client-side web application for converting PNG images to JPG format with adjus
 
 ## Demo
 
-[Live Demo](https://ADS2001.github.io/png-to-jpg-converter)
+[Live Demo](https://ads2001.github.io/PNG-to-JPG-Converter/)
 
 ## Usage
 
