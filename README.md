@@ -146,5 +146,5 @@ A: No hard limit, but very large files (>50MB) may slow down your browser.
 A: Yes, once the page loads, no internet connection is required.
 
 ---
-
-**Made for developers, designers, and anyone who needs quick PNG to JPG conversion without the hassle of online tools or desktop software.**
+**Built by [Arunavo Dutta](https://github.com/ADS2001) with the help of Claude AI.**
+**Vibe-coded for developers, designers, and anyone who needs quick PNG to JPG conversion without the hassle of online tools or desktop software.**
